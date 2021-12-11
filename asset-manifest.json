@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Expense-T-React/static/css/main.1a158a6f.chunk.css",
+    "main.js": "/Expense-T-React/static/js/main.299fbec9.chunk.js",
+    "main.js.map": "/Expense-T-React/static/js/main.299fbec9.chunk.js.map",
+    "runtime-main.js": "/Expense-T-React/static/js/runtime-main.33602b73.js",
+    "runtime-main.js.map": "/Expense-T-React/static/js/runtime-main.33602b73.js.map",
+    "static/js/2.8482eedd.chunk.js": "/Expense-T-React/static/js/2.8482eedd.chunk.js",
+    "static/js/2.8482eedd.chunk.js.map": "/Expense-T-React/static/js/2.8482eedd.chunk.js.map",
+    "index.html": "/Expense-T-React/index.html",
+    "static/css/main.1a158a6f.chunk.css.map": "/Expense-T-React/static/css/main.1a158a6f.chunk.css.map",
+    "static/js/2.8482eedd.chunk.js.LICENSE.txt": "/Expense-T-React/static/js/2.8482eedd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33602b73.js",
+    "static/js/2.8482eedd.chunk.js",
+    "static/css/main.1a158a6f.chunk.css",
+    "static/js/main.299fbec9.chunk.js"
+  ]
+}
